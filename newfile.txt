@@ -1,1 +1,2 @@
-This is a text file added to the project
+This is a text file added to the project.
+some changes from the ahmed account and some practice.
